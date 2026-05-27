@@ -1,0 +1,7 @@
+# Aperintel funding. Read by GitHub to render the Sponsor button.
+# Currently routed through the personal handle. Moves to the org-level
+# Sponsors profile (sponsors/aperintel) once Aperintel Ltd is incorporated
+# and the org passes the entity-verification step (W-8BEN-E plus Ltd-bank
+# Stripe Connect).
+github: [osiabu]
+custom: ["https://aperintel.com"]
