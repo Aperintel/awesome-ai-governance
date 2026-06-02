@@ -33,6 +33,7 @@ The focus is on AI governance practice: what regulated firms, healthcare operato
 - [UK ICO Guidance on AI and Data Protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/) - The UK regulator's positioning on automated decisions and AI under UK GDPR.
 - [FCA Consumer Duty](https://www.fca.org.uk/firms/consumer-duty) - UK financial-services regulator's framework, increasingly applied to AI-mediated outcomes.
 - [NHS DSPT](https://www.dsptoolkit.nhs.uk/) - NHS Data Security and Protection Toolkit. The compliance gate for healthtech ingesting NHS data.
+- [BAA Atlas](https://baa-atlas.vercel.app/ai/hipaa) - Tracks which AI tools will sign a HIPAA Business Associate Agreement and on which plan tier, each verdict cited and dated. A practical procurement filter for healthcare operators putting PHI through AI vendors.
 
 ## Standards bodies and working groups
 
