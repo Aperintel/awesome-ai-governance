@@ -74,6 +74,7 @@ The focus is on AI governance practice: what regulated firms, healthcare operato
 - [Langfuse](https://langfuse.com/) - Open-source LLM observability.
 - [Helicone](https://helicone.ai/) - LLM observability platform.
 - [PostHog LLM Observability](https://posthog.com/docs/ai-engineering/observability) - LLM observability inside the broader PostHog product analytics platform.
+- [Tuning Engines](https://www.tuningengines.com/) - AI control and evidence plane for governed model, MCP, skill, and agent traffic. Gives regulated teams policy decisions, approvals, guardrail outcomes, trace links, state references, costs, and outcomes for audit review.
 
 ## Regulators and policy-making bodies
 
